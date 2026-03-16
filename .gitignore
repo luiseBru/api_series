@@ -8,5 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+<<<<<<< HEAD
 *.pyc
 .venv/
+=======
+#variaves de ambiente
+.env
+##
+>>>>>>> master
